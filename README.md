@@ -1,8 +1,8 @@
 # Manu-MD
 
 <p align="center">
-  <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Manu-MD" height="300" src="https://telegra.ph/file/33e5f1bfd36ea02f8b062.jpg">
+  <a href="https://youtu.be/">
+    <img alt="Manu-MD" src="https://telegra.ph/file/33e5f1bfd36ea02f8b062.jpg">
   </a>
 </p>
 
@@ -17,3 +17,7 @@
     <img alt="Manul Official Tech" src="https://img.shields.io/youtube/channel/subscribers/UCWHA-PreVSVaYhDTAiUipCA" target="_blank" />
   </a>
 </p>
+
+---------------
+Comming Soon...✨💖
+---------------
