@@ -1,16 +1,16 @@
 {
-  "name": "Ethix-MD",
+  "name": "Manu-MD",
   "version": "10.8.1",
-  "description": "Ethix-MD latest multi device whatsapp bot",
+  "description": "Manu-MD latest multi device whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start src/index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Ethix-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "start": "pm2 start src/index.js --deep-monitoring --attach --name Manu-MD",
+    "stop": "pm2 stop Manu-MD",
+    "restart": "pm2 restart Manu-MD"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "keywords": ["manu-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "Manul-Official",
   "license": "ISC",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.5",
