@@ -1,4 +1,3 @@
-// antilink.js
 import { serialize } from '../../lib/Serializer.js';
 
 const antilinkSettings = {}; // In-memory database to store antilink settings for each chat
@@ -75,6 +74,16 @@ export const handleAntilink = async (m, sock, logger, isBotAdmins, isAdmins, isC
                 text: `\`\`\`「 Group Link Detected 」\`\`\`\n\n@${m.sender.split("@")[0]}, please do not share group links in this group.`,
                 contextInfo: { mentionedJid: [m.sender] }
             }, { quoted: m });
+
+            // Delete the link message
+            await sock.sendMessage(m.from, {
+                delete: {
+                    remoteJid: m.from,
+                    fromMe: false,
+                    id: m.key.id,
+                    participant: m.key.participant
+                }
+            });
 
             // Wait for a short duration before kicking
             setTimeout(async () => {
