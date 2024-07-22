@@ -33,7 +33,7 @@ ____________________________________
 
  ***✨GET SESSION VIA PAIR CODE❤️***
  ____________________________________
-<a href='https://replit.com/@smsundew/Manul-MD-V6' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://replit.com/@samsungdew0/Manul-MD-V6' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ____________________________________
 
