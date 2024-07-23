@@ -37,16 +37,16 @@ ____________________________________
 
 ____________________________________
 
-#### ✨HEROKU DEPLOY TUTORIAL VIDEO❤️
+#### ✨FREE DEPLOY TUTORIAL VIDEO❤️
 
 ***✨Tap On Logo❤️***
 
 <p align="left">
-<a href="https://youtube.com/@ManulOfficialTech"><img align="center" src="https://telegra.ph/file/56ec4a15988ebd4a391e6.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/iCyDVxT5LRg?si=Cy6jpRpQ7ZEgj_2n"><img align="center" src="https://telegra.ph/file/56ec4a15988ebd4a391e6.jpg" alt="DEPLOY" height="110" width="200" /></a>
 
 ____________________________________
 
-#### ✨DEPLOY TO HEROKU❤️ 
+#### ✨DEPLOY TO GITHUB❤️ 
 
 . If You don't have a account in Heroku. Create a account.
     <br>
