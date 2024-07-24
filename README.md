@@ -13,7 +13,7 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 <a href="https://youtu.be/SOJdOggBirg?si=JiGKC2E0HmjaLlZz?si=9jvgzTQSOWottbSU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # ```✨Bot Info❤️```
 <p align="center">
@@ -29,13 +29,13 @@ ____________________________________
 <p align='center'>
     </p>
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  ***✨GET SESSION VIA PAIR CODE❤️***
- ____________________________________
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href='https://replit.com/@manulwijethila2/Manu-MD-V6' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### ✨FREE DEPLOY TUTORIAL VIDEO❤️
 
@@ -44,29 +44,29 @@ ____________________________________
 <p align="left">
 <a href="https://youtu.be/iCyDVxT5LRg?si=Cy6jpRpQ7ZEgj_2n"><img align="center" src="https://telegra.ph/file/33a9598b1a3a27f004287.jpg" alt="DEPLOY" height="110" width="200" /></a>
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 #### ✨DEPLOY TO GITHUB❤️ 
 
 . If You don't have a account in Github. Create a account.
     <br>
 <a href='https://github.com/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=github&logoColor=white'/></a>
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  # Copy This Code For Github Workflow 
 
 https://github.com/manulofficial7/GitHub-Workflow-Code
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ✨Deploy to Heroku❤️ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manu-MD-V6)
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # ✨Install Manually 👇
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
@@ -75,7 +75,7 @@ ____________________________________
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## `For Termux/Ssh/Ubuntu`
@@ -95,7 +95,7 @@ yarn install
 npm start
 ```
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## `For VPS`
@@ -111,7 +111,7 @@ cd Manu-MD-V6
 npm start
 ```
 
-___________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## ```✨Connect With Me❤️```
@@ -123,7 +123,7 @@ ___________________________________
 <a href="https://www.instagram.com/unicorn_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ***✨Tap On Logo To Contat Me❤️***
@@ -135,7 +135,7 @@ ____________________________________
   <a href="https://wa.me/94742274855?text=Hi+Manul+Official+Sir...+I+need+some+help+in+Manul_Official_WhatsApp_Bot"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
 
   
-  ____________________________________
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   
    ## 🚀 `Bot Features`
@@ -152,7 +152,7 @@ ____________________________________
 | Full Button Added      | New Creative Button Added To Bot            | ✅           | 6.0        |
 
 
-____________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## `✨Main Creator❤️` 
@@ -161,7 +161,7 @@ ____________________________________
 `MANUL-OFFICIAL-BOT - By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️`
 
 
-      ``⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´
+  ´´´⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ.´´´
 
 
 </br>
@@ -174,4 +174,8 @@ ____________________________________
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
 
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
