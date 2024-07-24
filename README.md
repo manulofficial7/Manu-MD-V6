@@ -29,13 +29,13 @@ ____________________________________
 <p align='center'>
     </p>
 
-<details>
+____________________________________
 
  ***✨GET SESSION VIA PAIR CODE❤️***
  ____________________________________
 <a href='https://replit.com/@manulwijethila2/Manu-MD-V6' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-</details>
+____________________________________
 
 #### ✨FREE DEPLOY TUTORIAL VIDEO❤️
 
