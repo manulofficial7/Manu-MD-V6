@@ -1,14 +1,14 @@
  
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">ꪶ✨𝗠𝗮𝗻𝘂𝗹 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩6❤️ꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/33e5f1bfd36ea02f8b062.jpg" />
 </p>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <p align="center">
 Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/manulofficial7" target="_blank">ManulOfficial</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://youtu.be/SOJdOggBirg?si=JiGKC2E0HmjaLlZz?si=9jvgzTQSOWottbSU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
