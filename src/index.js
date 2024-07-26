@@ -114,8 +114,8 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("😃 𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❻ 𝐈nstall Successful️ ✅"));
-                    Matrix.sendMessage(Matrix.user.id, { text: `😃 𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❻ 𝐈nstall Successful️ ✅` });
+                    console.log(chalk.green("✨💖 𝐌𝐚𝐧𝐮-𝐌𝐃-𝐕6 𝐒𝐮𝐜𝐜𝐞𝐬𝐟𝐮𝐥𝐥𝐲 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐝 𝐘𝐨𝐮𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🪀✓"));
+                    Matrix.sendMessage(Matrix.user.id, { text: `> ✨💖 𝐌𝐚𝐧𝐮-𝐌𝐃-𝐕6 𝐒𝐮𝐜𝐜𝐞𝐬𝐟𝐮𝐥𝐥𝐲 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐝 𝐘𝐨𝐮𝐫 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩🪀✓` });
                     initialConnection = false;
                 } else {
                     console.log(chalk.blue("♻️ Connection reestablished after restart."));
