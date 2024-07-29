@@ -88,39 +88,56 @@ https://github.com/manulofficial7/GitHub-Workflow-Code
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+###  Deploy on VPS or PC (Example here as in Ubuntu)
 
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/manulofficial7/Manu-MD-V6
-yarn install
-npm start
-```
+#### Install with Script
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+- Run the following command:
+  ```sh
+  bash <(curl -fsSL http://bit.ly/43JqREw)
+  ```
 
+#### Install without Script
 
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/manulofficial7/Manu-MD-V6
-cd Manu-MD-V6
-npm start
-```
+1. **Install Git, ffmpeg, and curl:**
+   ```sh
+   sudo apt -y update && sudo apt -y upgrade
+   sudo apt -y install git ffmpeg curl
+   ```
+
+2. **Install Node.js:**
+   ```sh
+   curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+   sudo -E bash nodesource_setup.sh
+   sudo apt-get install -y nodejs
+   ```
+
+3. **Install Yarn:**
+   ```sh
+   sudo npm install -g yarn
+   ```
+
+4. **Install pm2:**
+   ```sh
+   sudo yarn global add pm2
+   ```
+
+5. **Clone Repository and Install Packages:**
+   ```sh
+   git clone https://github.com/manulofficial7/Manu-MD-V6 Manu-MD
+   cd Manu-MD
+   yarn install
+   ```
+
+6. **Start and Stop the Bot:**
+   - To start the bot:
+     ```sh
+     pm2 start . --name Manu-MD --attach --time
+     ```
+   - To stop the bot:
+     ```sh
+     pm2 stop Manu-MD
+     ```
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
